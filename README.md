@@ -3,4 +3,4 @@ Katie dog
 
 ## Photo
 
-![Katie dog photo](/images/img_0004.JPG)
+![Katie dog photo](/images/IMG_0004.JPG)
